@@ -24,6 +24,7 @@ Pareto optimal soluions and Pareto-Race [1] solutions are given in .xlxs file. M
 
 
 **Reference:**
+
 [1]. Korhonen, P., & Wallenius, J. (1988). A Pareto race. Naval Research Logistics (NRL), 35(6), 615-623.
 
 [2]. Guthikonda, S. M. (2005). Kohonen self-organizing maps. Wittenberg University, 98.

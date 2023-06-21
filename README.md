@@ -9,6 +9,16 @@ Pareto optimal soluions and Pareto-Race [1] solutions are given in .xlxs file. M
 
 ![PR-Graphical](https://github.com/deepanshuIITM/iSOM-PR/assets/137225940/d72137f1-1170-4209-97d2-7d9a654b91e5)
 
+**Fig: Framework for MCDM on Pareto Race using iSOM**
+
+![R NSGA II](https://github.com/deepanshuIITM/iSOM-PR/assets/137225940/d94b5976-fe50-495f-9881-9bfd3e6b6b8d)
+
+**Fig: Concept of Reference-direction based approach**
+
+![DPF_new](https://github.com/deepanshuIITM/iSOM-PR/assets/137225940/d93b516c-ad2d-49b0-ba7a-900f854b3f75)
+
+**Fig: MCDM using Pareto Race aided with iSOM visualization technique**
+
 
 
 

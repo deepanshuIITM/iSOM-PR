@@ -15,6 +15,11 @@ Pareto optimal soluions and Pareto-Race [1] solutions are given in .xlxs file. M
 
 **Fig: Concept of Reference-direction based approach**
 
+![image](https://github.com/deepanshuIITM/iSOM-PR/assets/137225940/1b17394f-f605-4996-b0c3-e49febbba88e)
+
+**Color-code relevant to Pareto-Race points and properties MCDM solutions**
+
+
 ![DPF_new](https://github.com/deepanshuIITM/iSOM-PR/assets/137225940/d93b516c-ad2d-49b0-ba7a-900f854b3f75)
 
 **Fig: MCDM using Pareto Race aided with iSOM visualization technique**

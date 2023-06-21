@@ -7,6 +7,7 @@ Pareto optimal soluions and Pareto-Race [1] solutions are given in .xlxs file. M
 2. interpretable version of Self-Organizing Maps [3]
 3. Ideas from Pareto Navigator [4] are also borrowed 
 
+![PR-Graphical](https://github.com/deepanshuIITM/iSOM-PR/assets/137225940/d72137f1-1170-4209-97d2-7d9a654b91e5)
 
 
 

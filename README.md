@@ -4,11 +4,11 @@ Pareto optimal soluions and Pareto-Race [1] solutions are given in .xlxs file. M
 
 ![PR](https://github.com/deepanshuIITM/iSOM-PR/assets/137225940/ceec850f-4af5-4313-82db-e89e26e44801)
 
-**iSOM-Pareto-Race based MCDM (constant speed)**
+**FIg: iSOM-Pareto-Race based MCDM (constant speed)**
 
 ![image](https://github.com/deepanshuIITM/iSOM-PR/assets/137225940/1b17394f-f605-4996-b0c3-e49febbba88e)
 
-**Color-code relevant to Pareto-Race points and properties MCDM solutions**
+**Fig: Color-code relevant to Pareto-Race points and properties MCDM solutions**
 
 
 **Preliminary Requirements:**

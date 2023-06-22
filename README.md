@@ -2,7 +2,8 @@
 ## Interactive Multi-criteria Decision-making on Pareto Race technique using iSOM
 Pareto optimal soluions and Pareto-Race [1] solutions are given in .xlxs file. MCDM has been performed in MALTLAB using interpretable Self-Organizing Maps (iSOM) [3]. 
 
-![PR](https://github.com/deepanshuIITM/iSOM-PR/assets/137225940/ceec850f-4af5-4313-82db-e89e26e44801)
+![iSOM_PR](https://github.com/deepanshuIITM/iSOM-PR/assets/137225940/7790a3e9-f3b7-476f-935f-12690c443cf7)
+
 
 **FIg: iSOM-Pareto-Race based MCDM (constant speed)**
 

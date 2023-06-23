@@ -1,5 +1,5 @@
 # iSOM-PR
-## Interactive Multi-criteria Decision-making on Pareto Race technique using iSOM
+## Interactive Multi-criteria Decision-making on Pareto Race technique using iSOM [5]
 Pareto optimal soluions and Pareto-Race [1] solutions are given in .xlsx file. MCDM has been performed in MALTLAB using interpretable Self-Organizing Maps (iSOM) [3]. 
 
 ![iSOM-PR](https://github.com/deepanshuIITM/iSOM-PR/assets/137225940/418fd76f-0cc7-4404-8ef1-945bcbcea64c)
@@ -42,4 +42,6 @@ Pareto optimal soluions and Pareto-Race [1] solutions are given in .xlsx file. M
 [3]. Thole, S. P., & Ramu, P. (2020). Design space exploration and optimization using self-organizing maps. Structural and Multidisciplinary Optimization, 62(3), 1071-1088.
 
 [4]. Eskelinen, P., Miettinen, K., Klamroth, K., & Hakanen, J. (2010). Pareto navigator for interactive nonlinear multiobjective optimization. OR spectrum, 32, 211-227.
+
+[5]. Yadav, D., Ramu, P., & Deb, K. (2022, December). Visualization-aided Multi-criterion Decision-making Using Reference Direction Based Pareto Race. In 2022 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 125-132). IEEE.
 

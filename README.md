@@ -20,7 +20,7 @@ Pareto optimal soluions and Pareto-Race [1] solutions are given in .xlsx file. M
 
 **Fig: Framework for MCDM on Pareto Race using iSOM**
 
-![Fig_1_Explanation](https://github.com/deepanshuIITM/iSOM-PR/assets/137225940/543beded-8c57-4b2e-ad29-3a3f0f4e9582)
+![Fig_1_Explan_b](https://github.com/deepanshuIITM/iSOM-PR/assets/137225940/98f2c635-e008-491f-a159-0c004fef113c)
 
 **Fig: Concept of Pareto Race approach**
 

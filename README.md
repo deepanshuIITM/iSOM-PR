@@ -11,7 +11,7 @@
   
 3. interpretable version of Self-Organizing Maps [3]
    
-   **Note: Download the iSOM files *modifiedsom_lininit*, *modifiedsom_lininit1*, *modifiedsom_train*, and keep them in the same folder as SOM toolbox**
+   **Note: Download the iSOM files *modifiedsom_lininit.m*, *modifiedsom_lininit1.m*, *modifiedsom_train.m*, *som_bmus41.m* and keep them in the same folder as SOM toolbox**
    
 5. Pareto optimal solutions and Pareto-Race [1] solutions are given in .xlsx file
    

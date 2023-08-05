@@ -15,9 +15,9 @@
 
    **Download iSOM codes here: *https://drive.google.com/drive/folders/1VfFnH3xSTKmRrANWqWTbSgEe0RaRZVA7?usp=sharing***
    
-5. Pareto optimal solutions and Pareto-Race [1] solutions are given in .xlsx file
+5. Pareto optimal solutions and Pareto-Race [1] solutions are given in .csv file
    
-    **Note: For replication purposes we provide the optimal solutions and MCDM solutions used in our study**
+    **Note: For replication purposes, we provide the Pareto optimal solutions and MCDM solutions used in our study**
    
 7. MCDM has been performed in MATLAB using interpretable Self-Organizing Maps (iSOM) [3]
 

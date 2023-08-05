@@ -15,7 +15,7 @@
 
    **Download iSOM codes here: *https://drive.google.com/drive/folders/1VfFnH3xSTKmRrANWqWTbSgEe0RaRZVA7?usp=sharing***
    
-5. Pareto optimal solutions and Pareto-Race [1] solutions are given in .csv file
+5. Pareto optimal solutions and Pareto-Race [1] solutions are given in .csv and .txt files
    
     **Note: For replication purposes, we provide the Pareto optimal solutions and MCDM solutions used in our study**
    

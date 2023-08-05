@@ -1,12 +1,13 @@
 # iSOM-PR
 ## Interactive Multi-criteria Decision-making on Pareto Race method using iSOM [5]
 **Preliminary Requirements:**
-1. Self-Organizing Maps toolbox [2]
-2. interpretable version of Self-Organizing Maps [3]
-3. Pareto optimal soluions and Pareto-Race [1] solutions are given in .xlsx file
+1. Self-Organizing Maps toolbox [2] (Download SOM toolbox here- http://www.cis.hut.fi/projects/somtoolbox/download/)
+2. interpretable version of Self-Organizing Maps [3] (Download the iSOM files modifiedsom_lininit, modifiedsom_train, and keep them in the same folder as SOM toolbox)  
+3. Pareto optimal solutions and Pareto-Race [1] solutions are given in .xlsx file (For replication purposes we provide the optimal solutions and MCDM solutions used in our study)
 4. MCDM has been performed in MATLAB using interpretable Self-Organizing Maps (iSOM) [3]
 
-Ideas from Pareto Navigator [4] are also borrowed.
+
+
 
 ![iSOM-PR](https://github.com/deepanshuIITM/iSOM-PR/assets/137225940/418fd76f-0cc7-4404-8ef1-945bcbcea64c)
 

@@ -20,7 +20,7 @@
    
 #### Note: For replication purposes, we provide the Pareto optimal solutions and MCDM solutions used in our study
    
-### 4. MCDM has been performed in MATLAB using interpretable Self-Organizing Maps (iSOM) [3]
+### 4. MCDM has been performed in MATLAB (.m files) using interpretable Self-Organizing Maps (iSOM) [3]
 
 
 

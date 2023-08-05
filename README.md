@@ -1,6 +1,5 @@
-# iSOM-PR
-## Interactive Multi-criteria Decision-making on Pareto Race method using iSOM
-**Preliminary Requirements:**
+# Interactive Multi-criteria Decision-making on Pareto Race method using iSOM
+## Preliminary Requirements:
 1. Self-Organizing Maps toolbox [2]
    
    **Note: Download SOM toolbox here**-

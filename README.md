@@ -1,4 +1,4 @@
-# Interactive Multi-criteria Decision-making on Pareto Race method using iSOM
+# Interpretable Self-Organizing Map (iSOM) Assisted Interactive Multi-Criteria Decision-Making Following Pareto-Race
 ## Preliminary Requirements:
 ### 1. Self-Organizing Maps toolbox [2]
    

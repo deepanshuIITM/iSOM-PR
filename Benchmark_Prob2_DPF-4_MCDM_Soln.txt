@@ -1,0 +1,50 @@
+%% INTERPRETABLE SELF ORGANIZING MAPS (iSOM) ASSISTED INTERACTIVE MULTI-CRITERIA 
+   DECISION-MAKING FOLLOWING PARETO RACE
+
+BENCHMARK PROBLEM 2: DPF-4 Problem
+
+Ideal point = [0, 0, 0, 0]
+Nadir point = [141.5, 141.5, 141.5, 141.5]
+
+DM's preferences 
+
+1. Start Point: [75.000, 75.000, 75.000, 75.000] 
+
+CASE I: Improve 𝑓4 at the cost of 𝑓1 
+
+	DM Preference in terms of classification: [">","=","=","<"]
+
+	Preferred Solution obtained using Pareto Race method:
+	[90.671 72.181 74.763 50.778] 
+        [132.235 95.768 91.689 9.602]
+        [130.116 101.393 83.248 16.752]        
+
+CASE II: Improve 𝑓3 at the cost of 𝑓2
+
+	DM Preference in terms of classification: ["=",">","<","="]
+
+	Preferred Solution obtained using Pareto Race method:
+        [76.932  89.602 52.048 69.420]
+        [95.984 129.952 12.549 88.498]
+        [101.643 129.069 18.362 81.638]
+
+CASE III: Improve 𝑓1 at the cost of 𝑓4
+
+	DM Preference in terms of classification: ["<","=","=",">"]
+
+	Preferred Solution obtained using Pareto Race method:
+        [51.150 74.132 72.604  90.281]
+        [10.317 92.570 93.434 131.121]
+        [0.0000 100.00 100.00 141.421]
+
+CASE II: Improve 𝑓2 at the cost of 𝑓3
+
+	DM Preference in terms of classification: ["=","<",">","="]
+
+	Preferred Solution obtained using Pareto Race method:
+        [77.771 52.276  89.493 68.508]
+        [96.128 11.066 131.189 89.958]
+        [100.00 0.0000 141.421 100.00]	
+
+
+        

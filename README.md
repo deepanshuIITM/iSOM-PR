@@ -24,6 +24,13 @@
 
 
 
+=====================================================================================
+
+## DESCRIPTION ON iSOM-AIDED PARETO RACE METHOD
+
+=====================================================================================
+
+
 ### Fig: Demonstration of iSOM-Pareto-Race based MCDM at constant speed
 
 ![iSOM-PR](https://github.com/deepanshuIITM/iSOM-PR/assets/137225940/418fd76f-0cc7-4404-8ef1-945bcbcea64c)

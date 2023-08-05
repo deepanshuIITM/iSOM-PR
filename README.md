@@ -53,5 +53,4 @@
 
 [3]. Thole, S. P., & Ramu, P. (2020). Design space exploration and optimization using self-organizing maps. Structural and Multidisciplinary Optimization, 62(3), 1071-1088.
 
-[4]. Eskelinen, P., Miettinen, K., Klamroth, K., & Hakanen, J. (2010). Pareto navigator for interactive nonlinear multiobjective optimization. OR spectrum, 32, 211-227.
 

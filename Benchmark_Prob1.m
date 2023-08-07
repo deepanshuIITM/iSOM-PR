@@ -1,5 +1,5 @@
 %% INTERPRETABLE SELF ORGANIZING MAPS (iSOM) ASSISTED INTERACTIVE MULTI-CRITERIA DECISION-MAKING FOLLOWING PARETO RACE
-% ARTICLE PROBLEM: Benchmark problem 1 in the manuscript
+%% ARTICLE PROBLEM: Benchmark problem 1 in the manuscript
 % Data set for Pareto front generation and iteration-wise DM's preferred solutions are
 % provided for replication purposes. It is to be noted the iSOM plots may
 % change with changing the data and DM's preferred solutions. 

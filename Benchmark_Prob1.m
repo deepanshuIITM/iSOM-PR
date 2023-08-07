@@ -190,7 +190,7 @@ sgtitle('Highlighting Start Point using Black face color iSOM node')
 disp('Strike any key to plot first preferred solution...')
 pause
 
-iter1 = [-0.067  -2.896 -16.948];
+iter1 = [-0.067  -2.896 -16.948];                                           %(DM can provide preferred solution obtained from PR method here)                        
 
 %% BMU SELECTION OF FIRST PREFERRED SOLUTION
 map_s = [20 20];
@@ -215,7 +215,7 @@ sgtitle('Highlighting preferred solution using green color iSOM node')
 disp('Strike any key to plot second preferred solution...')
 pause
 
-iter2 = [0.314  -2.256 -22.516];
+iter2 = [0.314  -2.256 -22.516];                                           %(DM can provide preferred solution obtained from PR method here)
 
 %% BMU SELECTION OF SECOND PREFERRED SOLUTION
 map_s = [20 20];
@@ -240,7 +240,7 @@ sgtitle('Highlighting next preferred solution using green color iSOM node')
 disp('Strike any key to plot next preferred solution...')
 pause
 
-iter3 = [1.139  -0.979 -30.697];
+iter3 = [1.139  -0.979 -30.697];                                           %(DM can provide preferred solution obtained from PR method here)
 
 %% BMU SELECTION OF NEXT PREFERRED SOLUTION
 map_s = [20 20];
@@ -266,7 +266,7 @@ sgtitle('Highlighting next preferred solution using green color iSOM node')
 disp('Strike any key to plot next preferred solution...')
 pause
 
-iter4 = [1.866   0.116 -36.814];
+iter4 = [1.866   0.116 -36.814];                                           %(DM can provide preferred solution obtained from PR method here)
 
 %% BMU SELECTION OF NEXT PREFERRED SOLUTION
 map_s = [20 20];
@@ -293,7 +293,7 @@ sgtitle('Highlighting next preferred solution using green color iSOM node')
 disp('Strike any key to plot next preferred solution...')
 pause
 
-iter5 = [2.443   0.979 -41.521];
+iter5 = [2.443   0.979 -41.521];                                           %(DM can provide preferred solution obtained from PR method here)
 
 %% BMU SELECTION OF NEXT PREFERRED SOLUTION
 map_s = [20 20];
@@ -321,7 +321,7 @@ sgtitle('Highlighting next preferred solution using green color iSOM node')
 disp('Strike any key to plot next preferred solution...')
 pause
 
-iter6 = [3.602   1.144 -47.069];
+iter6 = [3.602   1.144 -47.069];                                           %(DM can provide preferred solution obtained from PR method here)
 
 %% BMU SELECTION OF NEXT PREFERRED SOLUTION
 map_s = [20 20];

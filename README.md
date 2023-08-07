@@ -2,7 +2,7 @@
 ## Preliminary Requirements:
 ### 1. Self-Organizing Maps toolbox [2]
    
-   **Note: Download SOM toolbox here**-
+   **Download SOM toolbox here**-
    
    ***http://www.cis.hut.fi/projects/somtoolbox/download/*** OR
    

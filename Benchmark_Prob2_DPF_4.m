@@ -216,7 +216,7 @@ sgtitle('Highlighting start point using black face color iSOM nodes')
 disp('Strike any key to plot first preferred solution...')
 pause
 iter1 = [[90.671 72.181 74.763 50.778]; [76.932  89.602 52.048 69.420]; [51.150 74.132 72.604  90.281]; [77.771 52.276  89.493 68.508]];
-
+%(DM can provide preferred solution obtained from PR method here)
 
 %% BMU SELECTION OF FIRST PREFERRED SOLUTION
 BMUs1 = som_bmus41(sMap_umatrix.codebook(:,3:end-2), iter1);
@@ -240,6 +240,7 @@ sgtitle('Highlighting first preferred solutions using green face color iSOM node
 disp('Strike any key to plot second preferred solution...')
 pause
 iter2 = [[132.235 95.768 91.689 9.602]; [95.984 129.952 12.549 88.498]; [10.317 92.570 93.434 131.121]; [96.128 11.066 131.189 89.958]];
+%(DM can provide preferred solution obtained from PR method here)
 
 %% BMU SELECTION OF SECOND PREFERRED SOLUTION
 BMUs2 = som_bmus41(sMap_umatrix.codebook(:,3:end-2), iter2);
@@ -264,6 +265,7 @@ sgtitle('Highlighting second preferred solutions using green face color iSOM nod
 disp('Strike any key to highlight Turn...')
 pause
 iter3 = [[132.235 95.768 91.689 9.602]; [95.984 129.952 12.549 88.498]];
+%(DM can provide preferred solution obtained from PR method here)
 
 %% BMU SELECTION OF TURNING
 BMUs3 = som_bmus41(sMap_umatrix.codebook(:,3:end-2), iter3);

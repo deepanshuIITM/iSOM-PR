@@ -1,26 +1,16 @@
 # Interpretable Self-Organizing Map (iSOM) Assisted Interactive Multi-Criteria Decision-Making Following Pareto-Race
 ## Preliminary Requirements:
-### 1. Self-Organizing Maps toolbox [2]
+### 1. Interpretable version of Self-Organizing Maps [2,3]
    
    **Download SOM toolbox here**-
    
-   ***http://www.cis.hut.fi/projects/somtoolbox/download/*** OR
+   ***https://drive.google.com/drive/folders/1dLKlL_x2_MqT2PBEfnCIsyzYP4hGPl8I?usp=sharing*** 
    
-   ***https://drive.google.com/file/d/17bbSDiiNumTShmvrppjvVSoe1Wqp3OnN/view?usp=sharing***
-  
-### 2. interpretable version of Self-Organizing Maps [3]
-   
-   **Note: Download the iSOM files *modifiedsom_lininit.m*, *modifiedsom_lininit1.m*, *modifiedsom_train.m*, *som_bmus41.m* and keep them in the same folder as SOM toolbox**
-
-   **Download iSOM codes here:**-
-   
-   ***https://drive.google.com/drive/folders/1VfFnH3xSTKmRrANWqWTbSgEe0RaRZVA7?usp=sharing***
-   
-### 3. Pareto optimal solutions and Pareto-Race [1] solutions are given in .csv and .txt files
+### 2. Pareto optimal solutions and Pareto-Race [1] solutions are given in .csv and .txt files
    
 #### Note: For replication purposes, we provide the Pareto optimal solutions and MCDM solutions used in our study
    
-### 4. MCDM has been performed in MATLAB (.m files) using interpretable Self-Organizing Maps (iSOM) [3]
+### 3. MCDM has been performed in MATLAB (.m files) using interpretable Self-Organizing Maps (iSOM) [3]
 
 
 

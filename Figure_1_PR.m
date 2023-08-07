@@ -9,7 +9,7 @@ clear all
 close all
 
 %% IMPORTING DATA FOR PARETO FRONT 
-Tb = readtable('Front.csv');  
+Tb = readtable('Figure_1_PR.csv');  
 d = table2array(Tb);
 F = d(2:end,2:end);
 

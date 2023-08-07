@@ -41,8 +41,6 @@
 
 
 
-
-
 **Reference:**
 
 [1]. Korhonen, P., & Wallenius, J. (1988). A Pareto race. Naval Research Logistics (NRL), 35(6), 615-623.

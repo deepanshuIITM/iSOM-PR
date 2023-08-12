@@ -8,7 +8,7 @@
    
 ### 2. Pareto optimal solutions and Pareto-Race [1] solutions are given in .csv and .txt files
    
-#### Note: For replication purposes, we provide the Pareto optimal solutions and MCDM solutions used in our study
+#### Note: For replication purposes, we have provided the Pareto optimal solutions and MCDM solutions used in our study
    
 ### 3. MCDM has been performed in MATLAB (.m files) using interpretable Self-Organizing Maps (iSOM) [3]
 

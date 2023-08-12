@@ -1,0 +1,51 @@
+## Interpretable Self-Organizing Map (iSOM) Assisted Interactive Multi-Criteria
+## Decision-Making Following Pareto-Race
+
+## THIS IS DETAILS ON FIGURE 1
+
+Ideal Point = [0, 0, 0];
+Nadir Point = [1, 1, 1];
+
+User defined Start Point: r_0 = [0.15, 0.15, 1.25];
+Pareto-Optimal Start Point: z_0 = [0.123 0.123 0.985];
+
+                                           
+
+Aspiration 1: 
+asp_1 = [1.0, z_0(2), 1.0];  (Classification- {">","=","<"})
+
+Reference Points:
+[0.211, 0.123, 0.987]   
+[0.298, 0.123, 0.988]    
+[0.386, 0.123, 0.99 ]    
+[0.474, 0.123, 0.991]    
+[0.561, 0.123, 0.993]
+
+Preferred Solution: (Constant Speed)
+[0.207 0.121 0.971] %1 SPEED: `5''                                 
+[0.287 0.119 0.951] %2 SPEED: `5'
+[0.361 0.115 0.926] %3 SPEED: `5'
+[0.429 0.111 0.897] %4 SPEED: `5'
+[0.49  0.107 0.865] %5 SPEED: `5 
+
+Aspiration 2: (Turn)
+asp_2 = [0, 1, 0];      (Classification- {"<",">","<"})
+
+Reference Points:
+[0.441, 0.196, 0.779] 
+[0.392, 0.286, 0.692]
+[0.353, 0.357, 0.623]
+[0.323, 0.411, 0.571]
+[0.294, 0.464, 0.519]
+[0.264, 0.518, 0.467]
+
+Preferred Solution: (Brakes)
+[0.481 0.214 0.850] %1 SPEED: `5'                        
+[0.463 0.338 0.820] %2 SPEED: `5'
+[0.441 0.446 0.779] %3 SPEED: `4' 
+[0.418 0.531 0.738] %4 SPEED: `3'
+[0.389 0.614 0.687] %5 SPEED: `3'
+[0.354 0.694 0.627] %6 SPEED: `3'
+
+Final Solution:
+[0.354 0.694 0.627]

@@ -10,14 +10,13 @@ DM's preferences
 
 1. Start Point: [-0.164  -3.083  -14.695]
 
-DM Preference in terms of classification: [">",">","<"]
+2. DM Preference in terms of classification: [">",">","<"]
 
-Preferred Solution obtained using Pareto Race method: 
+3. Preferred Solution obtained using Pareto Race method: 
 
-Iteration 1: 	     [-0.067  -2.896 -16.948]; speed '2'
+Iteration 1: 	      [-0.067  -2.896 -16.948]; speed '2'
 Iteration 2:          [0.314  -2.256 -22.516]; speed '2'
 Iteration 3:          [1.139  -0.979 -30.697]; speed '2'           
 Iteration 4:          [1.866   0.116 -36.814]; speed '2'
 Iteration 5:          [2.443   0.979 -41.521]; speed '2'
-Iteration 6:          [3.602   1.144 -47.069]; speed '2'
-        
+Iteration 6:          [3.602   1.144 -47.069]; speed '2'      

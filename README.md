@@ -2,7 +2,7 @@
 ## Preliminary Requirements:
 ### 1. Interpretable version of Self-Organizing Maps [2,3]
    
-   **Download SOM toolbox here**-
+   **Download SOM toolbox is available here**-
    
    ***https://drive.google.com/drive/folders/1dLKlL_x2_MqT2PBEfnCIsyzYP4hGPl8I?usp=sharing*** 
    

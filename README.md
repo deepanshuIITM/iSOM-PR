@@ -26,7 +26,7 @@
 ![iSOM-PR](https://github.com/deepanshuIITM/iSOM-PR/assets/137225940/418fd76f-0cc7-4404-8ef1-945bcbcea64c)
 
 
-### Fig: Color-code relevant to Pareto-Race points and properties MCDM solutions
+### Fig: Color-code relevant to Pareto-Race points and properties of MCDM solutions
 
 <img src="https://github.com/deepanshuIITM/iSOM-PR/assets/137225940/1b17394f-f605-4996-b0c3-e49febbba88e" alt="image" width="650" height="325">
 

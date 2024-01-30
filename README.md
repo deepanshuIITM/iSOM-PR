@@ -23,7 +23,8 @@
 
 ### Fig: Demonstration of iSOM-Pareto-Race based MCDM at constant speed
 
-![iSOM-PR](https://github.com/deepanshuIITM/iSOM-PR/assets/137225940/418fd76f-0cc7-4404-8ef1-945bcbcea64c)
+![iSOM-PR](![ezgif com-effects](https://github.com/deepanshuIITM/iSOM-PR/assets/137225940/c7235d45-ab5e-4dbb-b039-61a4f235c09a)
+)
 
 
 ### Fig: Color-code relevant to Pareto-Race points and properties of MCDM solutions

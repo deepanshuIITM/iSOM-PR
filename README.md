@@ -1,30 +1,14 @@
 # Interpretable Self-Organizing Map (iSOM) Assisted Interactive Multi-Criteria Decision-Making Following Pareto-Race
-## Preliminary Requirements:
-### 1. Interpretable version of Self-Organizing Maps [2,3]
-   
-   **SOM toolbox is available here**-
-   
-   ***https://drive.google.com/drive/folders/1dLKlL_x2_MqT2PBEfnCIsyzYP4hGPl8I?usp=sharing*** 
-   
-### 2. Pareto optimal solutions and Pareto-Race [1] solutions are given in .csv and .txt files
-   
-#### Note: For replication purposes, we have provided the Pareto optimal solutions and MCDM solutions used in our study
-   
-### 3. MCDM has been performed in MATLAB (.m files) using interpretable Self-Organizing Maps (iSOM) [3]
 
+### Fig: Demonstration of iSOM-Pareto-Race based MCDM at constant speed
 
+![ezgif com-effects](https://github.com/deepanshuIITM/iSOM-PR/assets/137225940/c617a7bc-b9d1-48ad-8b11-b7348588f36d)
 
 ========================================================================
 
 ## DESCRIPTION ON iSOM-AIDED PARETO RACE METHOD
 
 ========================================================================
-
-
-### Fig: Demonstration of iSOM-Pareto-Race based MCDM at constant speed
-
-![iSOM-PR](![ezgif com-effects](https://github.com/deepanshuIITM/iSOM-PR/assets/137225940/c7235d45-ab5e-4dbb-b039-61a4f235c09a)
-)
 
 
 ### Fig: Color-code relevant to Pareto-Race points and properties of MCDM solutions
@@ -38,6 +22,19 @@
 ### Fig: Framework for MCDM on Pareto Race using iSOM
 
 ![PR-Graphical](https://github.com/deepanshuIITM/iSOM-PR/assets/137225940/d72137f1-1170-4209-97d2-7d9a654b91e5)
+
+## Preliminary Requirements:
+### 1. Interpretable version of Self-Organizing Maps [2,3]
+   
+   **SOM toolbox is available here**-
+   
+   ***https://drive.google.com/drive/folders/1dLKlL_x2_MqT2PBEfnCIsyzYP4hGPl8I?usp=sharing*** 
+   
+### 2. Pareto optimal solutions and Pareto-Race [1] solutions are given in .csv and .txt files
+   
+#### Note: For replication purposes, we have provided the Pareto optimal solutions and MCDM solutions used in our study
+   
+### 3. MCDM has been performed in MATLAB (.m files) using interpretable Self-Organizing Maps (iSOM) [3]
 
 
 

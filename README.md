@@ -45,6 +45,10 @@
 
       [2]. Guthikonda, S. M. (2005). Kohonen self-organizing maps. Wittenberg University, 98.
 
-      [3]. Thole, S. P., & Ramu, P. (2020). Design space exploration and optimization using self-organizing maps. Structural and Multidisciplinary Optimization, 62(3), 1071-1088.
+      [3]. Thole, S. P., & Ramu, P. (2020). Design space exploration and optimization using self-organizing maps. 
+           Structural and Multidisciplinary Optimization, 62(3), 1071-1088.
+
+      [4]. Yadav, D., Ramu, P., & Deb, K. (2023). Interpretable self-organizing map assisted interactive multi-criteria 
+           decision-making following Pareto-Race. Applied Soft Computing, 149, 111032.
 
 
